@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">凡信</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+    <string name="im_video_shoot">按住拍</string>
+
+</resources>

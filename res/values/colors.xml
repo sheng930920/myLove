@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="font_gray">#cccccc</color>
+    <color name="font_black">#000000</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#3A5FCD</color>
+    <color name="devide_line">#CBCED2</color>
+    <color name="btn_register_pressed">#4ebcd3</color>
+    <color name="btn_register_normal">#2dafa3</color>
+    <color name="white">#ffffffff</color>
+    
+    
+    
+    
+    <color name="style_red">#ff4c41</color>
+    <color name="style_divider_color">#C9C7CD</color>
+
+</resources>
